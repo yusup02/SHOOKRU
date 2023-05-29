@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../test-project"
+		},
+		{
+			"path": "../shoocru1"
+		}
+	],
+	"settings": {}
+}
